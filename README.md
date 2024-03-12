@@ -1,4 +1,4 @@
-# Spark_
+# Spark_:)
 Spark is an excellent language for developing machine learning pipelines, conducting exploratory data analysis at scale, and producing ETLs for data platforms. Spark is essential for anybody working with large amounts of data. massive-scale data-intensive operations may be managed and business insights can be obtained by processing massive volumes of data in a distributed manner using PySpark, a Python API for Spark, without compromising developer efficiency. To put it succinctly, PySpark is a strong and quick framework for doing massively distributed processing over robust data sets.
 
 
